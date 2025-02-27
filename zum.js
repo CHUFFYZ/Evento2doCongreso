@@ -28,6 +28,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
     // Cambiar la posición inicial del mapa (ajusta las coordenadas y el nivel de zoom según tus necesidades)
-    map.setView([500, 1120], 0); 
+    map.setView([500, 1200], -1); 
   });
   
